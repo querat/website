@@ -1,0 +1,25 @@
+# Site settings
+title: Pootis
+email: gwendal.querat@gmail.com
+description: "plop"
+baseurl: ""
+url: "http://an.tagonist.pro"
+twitter_username: rapier992
+github_username:  rapier992
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# add this plugin to gems
+# gems:           ['jekyll-multiple-languages']
+# if you want to use pagination, you should add jekyll-paginate into gems
+# and make sure it is in front of jekyll-multiple-languages
+#gems:           ['jekyll-paginate', 'jekyll-multiple-languages']
+gems:           []
+
+# languages used
+languages:          ['en', 'fr']
+
+# If not config, the first item of languages will be used as the default.
+language_default:   'fr'

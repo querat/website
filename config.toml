@@ -1,3 +1,4 @@
 theme="nofancy"
 title = "My New Hugo Site"
 baseurl = "http://an.tagonist.pro/"
+languageCode = "en-us"
